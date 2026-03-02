@@ -1,1 +1,4 @@
 + Enable DCIM folders backup control
++ Change package name 
+
+- Pixel Spoof
