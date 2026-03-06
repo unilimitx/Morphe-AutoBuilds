@@ -22,6 +22,8 @@
     { "app_name": "bussu", "source": "hoo" },
     { "app_name": "material", "source": "hoo" },
     { "app_name": "pandora", "source": "hoo" },
+    { "app_name": "mimo", "source": "hoo" },
+    { "app_name": "icon-packer", "source": "hoo" },
     { "app_name": "rar", "source": "rookie" },
     { "app_name": "strava", "source": "rookie" },
     { "app_name": "tumblr", "source": "rookie" },
