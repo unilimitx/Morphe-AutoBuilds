@@ -1,0 +1,9 @@
+{
+    "org": "smart-launcher-team",
+    "name": "smart-launcher",
+    "type": "APK", 
+    "arch": "universal",
+    "dpi": "nodpi",
+    "package" : "com.busuu.android.enc",
+    "version" : ""
+}
