@@ -5,6 +5,6 @@
     "type": "BUNDLE", 
     "arch": "universal",
     "dpi": "nodpi",
-    "package" : "all.in.one.calculator",
+    "package" : "com.mobilefootie.wc2010",
     "version" : ""
 }
