@@ -185,12 +185,12 @@ def get_supported_version(package_name: str, cli: str, patches: str) -> Optional
             patches
         ]
     else:
-        # ReVanced CLI v6: requires -p flag and -b (bypass verification)
+        # ReVanced CLI: pass patches as positional arg
         cmd = [
             'java', '-jar', cli,
             'list-versions',
-            '-p', patches, '-b',
-            '-f', package_name
+            '-f', package_name,
+            patches
         ]
 
     output = run_process(cmd, capture=True, silent=True, check=False)
